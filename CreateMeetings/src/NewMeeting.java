@@ -16,9 +16,6 @@ public class NewMeeting {
 	 
 	 Document differences between your two approaches. 
 	 
-	 Have you anticipated future use cases? 
-	 
-
 	 This iteration of the program answers the question with some added features. 
 	 
 	 Firstly, I made all outputs disply  on the application window instead of the console. 
