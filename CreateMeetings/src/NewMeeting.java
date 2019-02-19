@@ -14,6 +14,10 @@ public class NewMeeting {
 
 	/*
 	 
+	This program has lots of features that would allow a user or developer to choose between the two dates as well as 
+	weekly and monthly features. A user also has the option to refresh the screen. A developer could add more contants
+	or change the contants by changing the global variables. 
+	
 	 Document differences between your two approaches. 
 	 
 	 This iteration of the program answers the question with some added features. 
