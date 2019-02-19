@@ -14,8 +14,34 @@ public class NewMeeting {
 
 	/*
 	 
+	 Document differences between your two approaches. 
+	 
+	 Have you anticipated future use cases? 
+	 
+
 	 This iteration of the program answers the question with some added features. 
 	 
+	 Firstly, I made all outputs disply  on the application window instead of the console. 
+	 
+	 Next, I made the constants such as meetings, days left and holidays and made all of them changable through what the
+	 user clicks. 
+	 
+	 I added the Weekly and Monthly features allowing the user to see how many meetings and days left they would have
+	 if they chose one or the other. 
+	 
+	 I added a refresh button so that the user doesnt have to close the program to begin anew. 
+	 
+	 Have you covered other potential inputs or configuration? 
+	 
+	 The program doesn't allow inputs but all contants can be easily configured through the global variables, changing
+	 the output for what the user clicks, that we this application can be configured for anyone. 
+	 
+	 Future cases: 
+	 
+	 The user could change global variables in the begining to modify the program to the 
+	 days, holidays and meetings he/she has. 
+	 
+	 To make this program better we could add buttons for more days and/or allow for initial user input if needed.
 	 
 	 */
 	// labels
