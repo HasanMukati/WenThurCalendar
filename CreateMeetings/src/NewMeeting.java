@@ -26,6 +26,8 @@ public class NewMeeting {
 	 I added the Weekly and Monthly features allowing the user to see how many meetings and days left they would have
 	 if they chose one or the other. 
 	 
+	 I added a total feature  so the user can easily see the  total depending on the option he/she chooses
+	 
 	 I added a refresh button so that the user doesnt have to close the program to begin anew. 
 	 
 	 Have you covered other potential inputs or configuration? 
