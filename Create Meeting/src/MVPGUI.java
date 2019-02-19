@@ -13,6 +13,9 @@ public class MVPGUI {
 	 
 	 This iteration of the program simply answers the question with no added features. 
 	 
+	 All a user or developer could do is click on one or the other buttons and/or change the date and int variables 
+	 for each date to change the constants of days left, holidays and meetings. 
+	 
 	 "If I schedule on Wednesdays, how many meetings
 	 will we have between today and the end of 2019? If we move to Thursdays next year, how
 	 many meetings will we have in total?" 
