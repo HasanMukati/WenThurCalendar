@@ -46,6 +46,10 @@ public class NewMeeting {
 	 
 	 To make this program better we could add buttons for more days and/or allow for initial user input if needed.
 	 
+	 					Second Version
+	 
+	 **** Ask User for Start and End date. Then Program Should Compute Everything Else ****
+	 
 	 */
 	// labels
 	
