@@ -11,7 +11,7 @@ public class MVPGUI {
 
 	/*
 	 
-	 This iteration of the program simply answers the question with no added features. 
+	 This iteration of the program simply answers the question.  
 	 
 	 All a user or developer could do is click on one or the other buttons and/or change the date and int variables 
 	 for each date to change the constants of days left, holidays and meetings. 
