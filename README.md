@@ -1,5 +1,5 @@
 # WenThurCalendar
-Two Implementations of the same Question for and interview question by Raytheon
+Two Implementations of the same question for and interview question by an unnamed aerospace company: 
 
 
 These two .java files are GUI projects. 
